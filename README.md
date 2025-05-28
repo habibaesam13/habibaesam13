@@ -62,6 +62,6 @@ I’m always open to collaborating on interesting projects or discussing new opp
 
 * Email: \[[habebaesam13@gmail.com](mailto:habebaesam13@gmail.com)]
 * LinkedIn: \[https://www.linkedin.com/in/habibaesam/]
-* GitHub: \[(https://github.com/habibaesam13/)]
+* GitHub: \[https://github.com/habibaesam13/]
 
 ---
