@@ -15,7 +15,6 @@ I am a dedicated **Software Engineer** specializing in **web application develop
 * **Frontend Development:**
 
   * Skilled in responsive UI design using Bootstrap, CSS, and JavaScript to create interactive and user-friendly interfaces.
-  * Experience integrating dynamic components (e.g., chatbots) without page reloads using JavaScript.
 
 * **Project Structure & Code Quality:**
 
